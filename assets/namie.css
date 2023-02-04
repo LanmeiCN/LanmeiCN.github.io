@@ -1,0 +1,6 @@
+html { overflow: auto !important; }
+body{
+    background-image:url(./background.png);/*设置网页的背景图片*/
+    background-repeat:no-repeat;/*设置背景图像平铺*/
+    background-attachment:fixed;/*设置背景图像的位置固定*/
+}
